@@ -5,7 +5,7 @@ variable "authentication" {
   })
 
   default = {
-    assume_role_arn = "arn:aws:iam::968225077300:role/LiveMiniCursoDevOpsAWSRole"
+    assume_role_arn = "arn:aws:iam::585008060212:role/LiveMiniCursoDevOpsAWSRole"
     region          = "us-west-1"
   }
 }
